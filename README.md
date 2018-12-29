@@ -1,0 +1,2 @@
+# Kouhai-bot
+discord bot
